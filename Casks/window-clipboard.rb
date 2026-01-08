@@ -7,5 +7,5 @@ cask "window-clipboard" do
   desc "A simple clipboard history tool designed for a developer’s daily needs."
   homepage "https://github.com/zaidhasan1/homebrew-window-clipboard"
 
-  app "Window Clipboard.app"
+  app "WindowClipboard.app"
 end
